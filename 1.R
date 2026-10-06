@@ -1,0 +1,13 @@
+
+num_vector <- c(10, 20, 30, 40, 50)
+char_vector <- c("virat", "ABD", "Gayle", "patidhar")
+logical_vector <- c(TRUE, FALSE, TRUE, FALSE)
+print("Numeric Vector:")
+print(num_vector)
+print(typeof(num_vector))
+print("Character Vector:")
+print(char_vector)
+print(typeof(char_vector))
+print("Logical Vector:")
+print(logical_vector)
+print(typeof(logical_vector))
